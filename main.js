@@ -1,1 +1,1 @@
-console.log("Hola");
+let XMLHttpRequest = require("xmlhttprequest").XMLHttpRequest;
