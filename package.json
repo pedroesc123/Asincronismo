@@ -1,5 +1,28 @@
 {
   "dependencies": {
     "xmlhttprequest": "^1.8.0"
-  }
+  },
+  "name": "asincronismo",
+  "version": "1.0.0",
+  "description": "trabajar con asincronismo en JavaScript",
+  "main": "main.js",
+  "devDependencies": {},
+  "scripts": {
+    "callback": "node src/callback/main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pedroesc123/Asincronismo.git"
+  },
+  "keywords": [
+    "callbacks",
+    "promise",
+    "async"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pedroesc123/Asincronismo/issues"
+  },
+  "homepage": "https://github.com/pedroesc123/Asincronismo#readme"
 }
