@@ -8,7 +8,8 @@
   "main": "main.js",
   "devDependencies": {},
   "scripts": {
-    "callback": "node src/callback/main.js"
+    "callback": "node src/callback/main.js",
+    "promise": "node src/promise/index.js"
   },
   "repository": {
     "type": "git",
